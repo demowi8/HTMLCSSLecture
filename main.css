@@ -1,3 +1,14 @@
-body{
+nav{
+    border: 1px;
+    position:absolute; 
+    box-sizing: border-box;
+    margin-top: 0px; margin-bottom: 10px;
     
+}
+form{
+    box-sizing:border-box; box-shadow: 20%; border: black solid;
+    margin-top:50px; margin-bottom: 100px; padding-left:30%; padding-right: 30%; 
+}
+img{
+    height: 20px;width: 20px; 
 }
